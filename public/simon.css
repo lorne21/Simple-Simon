@@ -1,0 +1,42 @@
+.classBox{
+	border: 1px solid white;
+	border-radius: 25px; 
+	height: 200px;
+	width: 100px;
+}
+
+#redBox{
+	width: 200px;
+	background-color: red
+}
+
+#blueBox{
+	width: 200px;
+	background-color: blue
+}
+
+#greenBox{
+	width: 200px;
+	background-color: green
+}
+
+#yellowBox{
+	width: 200px;
+	background-color: yellow
+}
+
+#simonbox{
+	margin-left: 400px;
+}
+
+.btn {
+	margin-left: 400px;
+}
+
+body {
+	background-color: #000
+}
+
+h1, h2 {
+	color: #fff
+}
